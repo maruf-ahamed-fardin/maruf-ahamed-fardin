@@ -1,128 +1,308 @@
-<h1 align="center">Hi 👋, I'm Maruf Ahamed Fardin</h1>
-<h3 align="center">Full Stack Web Developer | Turning Ideas into Interactive Web Experiences</h3>
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=maruf-ahamed-fardin&label=Profile%20views&color=0e75b6&style=flat" alt="maruf-ahamed-fardin" />
-</p>
+# 👋 Hi, I'm Maruf Ahamed Fardin
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=maruf-ahamed-fardin" alt="maruf-ahamed-fardin" />
+### Full Stack Web Developer | Turning Ideas into Interactive Web Experiences
+
+<p>
+  <a href="https://maruf-ahamed-fardin.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:marufahamedfardin20@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/maruf-ahamed-fardin-36a941215">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-- 🔭 I’m currently working on [Student Budget Planner](https://github.com/maruf-ahamed-fardin/student-budget-planner.git)
+<img src="https://komarev.com/ghpvc/?username=maruf-ahamed-fardin&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-- 🌱 I’m currently learning **Python**
+</div>
 
-- 👯 I’m looking to collaborate on [House-377](https://github.com/maruf-ahamed-fardin/House-377.git)
+---
 
-- 🤝 I’m looking for help with [Mess Mate](https://github.com/maruf-ahamed-fardin/House-377.git)
+## 🚀 About Me
 
-- 👨‍💻 All of my projects are available at [https://maruf-ahamed-fardin.vercel.app/](https://maruf-ahamed-fardin.vercel.app/)
+I'm a passionate **Full Stack Web Developer** who enjoys building modern, responsive, and user-friendly web applications.
 
-- 💬 Ask me about **Full Stack Developement**
+I love transforming ideas into interactive digital experiences while continuously learning new technologies and improving my development skills.
 
-- 📫 How to reach me **marufahamedfardin20@gmail.com**
+* 🔭 Currently working on **Student Budget Planner**
+* 🌱 Currently learning **Python**
+* 👯 Looking to collaborate on **House-377**
+* 🤝 Looking for help with **Mess Mate**
+* 💻 Building modern applications with **React, Next.js & Node.js**
+* 💬 Ask me about **Full Stack Development**
+* 🎮 Fun fact: **I'm a gamer**
+* 📫 Reach me at **[marufahamedfardin20@gmail.com](mailto:marufahamedfardin20@gmail.com)**
 
-- ⚡ Fun fact **I am a gamer**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🧑‍💻 Current Focus
+
+```text
+Frontend       ███████████████████░   React • Next.js • TypeScript • Tailwind
+Backend        ████████████████░░░░   Node.js • Express.js
+Database       ██████████████░░░░░░   MongoDB • MySQL
+Programming    ████████████░░░░░░░░   JavaScript • Python
+Tools          ████████████████░░░░   Git • GitHub • Docker • Figma
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
 
 <p align="left">
-  <a href="https://twitter.com/ma_fardin" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ma_fardin" height="30" width="40" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript"/>
   </a>
-
-  <a href="https://linkedin.com/in/maruf-ahamed-fardin-36a941215" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maruf-ahamed-fardin-36a941215" height="30" width="40" />
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons?i=ts" width="45" alt="TypeScript"/>
   </a>
-
-  <a href="https://fb.com/marufahamedfardin20" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marufahamedfardin20" height="30" width="40" />
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=python" width="45" alt="Python"/>
   </a>
-
-  <a href="https://instagram.com/maruf.ahamed.fardin" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maruf.ahamed.fardin" height="30" width="40" />
+  <a href="https://www.w3.org/html/">
+    <img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML5"/>
   </a>
-
-  <a href="https://discord.gg/marufahamedfardin" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="marufahamedfardin" height="30" width="40" />
+  <a href="https://www.w3.org/Style/CSS/">
+    <img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS3"/>
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### Frontend
 
 <p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react" width="45" alt="React"/>
   </a>
-
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <a href="https://nextjs.org/">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="45" alt="Next.js"/>
   </a>
-
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <a href="https://tailwindcss.com/">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="45" alt="Tailwind CSS"/>
   </a>
-
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <a href="https://redux.js.org/">
+    <img src="https://skillicons.dev/icons?i=redux" width="45" alt="Redux"/>
   </a>
 </p>
+
+### Backend & Database
+
+<p align="left">
+  <a href="https://nodejs.org/">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js"/>
+  </a>
+  <a href="https://expressjs.com/">
+    <img src="https://skillicons.dev/icons?i=express" width="45" alt="Express.js"/>
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="45" alt="MongoDB"/>
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL"/>
+  </a>
+  <a href="https://firebase.google.com/">
+    <img src="https://skillicons.dev/icons?i=firebase" width="45" alt="Firebase"/>
+  </a>
+</p>
+
+### Tools & Platforms
+
+<p align="left">
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" width="45" alt="Git"/>
+  </a>
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://skillicons.dev/icons?i=docker" width="45" alt="Docker"/>
+  </a>
+  <a href="https://www.figma.com/">
+    <img src="https://skillicons.dev/icons?i=figma" width="45" alt="Figma"/>
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" width="45" alt="VS Code"/>
+  </a>
+  <a href="https://vercel.com/">
+    <img src="https://skillicons.dev/icons?i=vercel" width="45" alt="Vercel"/>
+  </a>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/maruf-ahamed-fardin">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=maruf-ahamed-fardin&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=false&theme=tokyonight" alt="Maruf's GitHub Stats" />
+</a>
+
+<a href="https://github.com/maruf-ahamed-fardin">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruf-ahamed-fardin&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top Languages" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/maruf-ahamed-fardin">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maruf-ahamed-fardin&hide_border=true&theme=tokyonight" alt="Contribution Streak" />
+</a>
+
+</div>
+
+---
+
+# 📈 Contribution Activity Graph
+
+<div align="center">
+
+<a href="https://github.com/maruf-ahamed-fardin">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maruf-ahamed-fardin&theme=tokyo-night&hide_border=true&area=true" alt="Maruf's Contribution Activity Graph" />
+</a>
+
+</div>
+
+---
+
+# 📌 GitHub Overview
+
+<div align="center">
+
+<a href="https://github.com/maruf-ahamed-fardin">
+  <img src="https://img.shields.io/github/repos/maruf-ahamed-fardin?style=for-the-badge&logo=github&label=TOTAL%20REPOS" alt="Total Repositories"/>
+</a>
+
+<a href="https://github.com/maruf-ahamed-fardin">
+  <img src="https://img.shields.io/github/stars/maruf-ahamed-fardin?style=for-the-badge&logo=github&label=STARS%20GOT" alt="Stars Got"/>
+</a>
+
+<a href="https://github.com/maruf-ahamed-fardin">
+  <img src="https://img.shields.io/github/followers/maruf-ahamed-fardin?style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers"/>
+</a>
+
+<a href="https://github.com/maruf-ahamed-fardin">
+  <img src="https://img.shields.io/github/commit-activity/y/maruf-ahamed-fardin?style=for-the-badge&logo=github&label=COMMITS/YEAR" alt="Commits per Year"/>
+</a>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maruf-ahamed-fardin&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+# 📅 Commit Graph
+
+<div align="center">
+
+<a href="https://github.com/maruf-ahamed-fardin">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maruf-ahamed-fardin&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Commit Graph"/>
+</a>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/maruf-ahamed-fardin/student-budget-planner">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maruf-ahamed-fardin&repo=student-budget-planner&theme=tokyonight&hide_border=true" alt="Student Budget Planner"/>
+</a>
+
+<a href="https://github.com/maruf-ahamed-fardin/House-377">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maruf-ahamed-fardin&repo=House-377&theme=tokyonight&hide_border=true" alt="House 377"/>
+</a>
+
+</div>
+
+<br/>
+
+### 💰 Student Budget Planner
+
+A practical application focused on helping students manage and organize their personal budgets and expenses.
+
+**Focus:** Budget Management • User Experience • Full Stack Development
+
+### 🏠 House-377
+
+A web project designed to provide a modern digital experience around housing and property-related functionality.
+
+**Focus:** Web Development • Responsive UI • Full Stack Features
+
+---
+
+# 🎯 What I'm Working Toward
+
+* 🚀 Building production-ready full-stack applications
+* 🧠 Strengthening my backend and system design skills
+* 🐍 Expanding my knowledge of Python
+* ⚡ Improving React & Next.js development
+* 🔐 Learning better authentication and API architecture
+* ☁️ Exploring deployment and cloud technologies
+* 🤝 Contributing to meaningful open-source projects
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/maruf-ahamed-fardin-36a941215">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://twitter.com/ma_fardin">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+</a>
+
+<a href="https://www.facebook.com/marufahamedfardin20">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+
+<a href="https://www.instagram.com/maruf.ahamed.fardin">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="https://discord.gg/marufahamedfardin">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+
+<a href="mailto:marufahamedfardin20@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 "Turning ideas into code, and code into experiences."
+
+<br/>
+
+⭐ **If you like my work, consider giving my repositories a star!**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=maruf-ahamed-fardin&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+
+</div>
