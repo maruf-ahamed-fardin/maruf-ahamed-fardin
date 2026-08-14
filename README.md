@@ -6,132 +6,143 @@
 
 <p>
   <a href="https://maruf-ahamed-fardin.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0A66C2?style=for-the-badge" alt="Portfolio"/>
   </a>
   <a href="mailto:marufahamedfardin20@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/✉️%20Email-Contact%20Me-EA4335?style=for-the-badge" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/maruf-ahamed-fardin-36a941215">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=maruf-ahamed-fardin&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=maruf-ahamed-fardin&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a passionate **Full Stack Web Developer** who enjoys building modern, responsive, and user-friendly web applications.
+I'm a passionate **Full Stack Web Developer** who enjoys turning ideas into modern, responsive, and interactive web experiences.
 
-I love transforming ideas into interactive digital experiences while continuously learning new technologies and improving my development skills.
+I focus on building applications that are functional, user-friendly, and visually engaging while continuously improving my development skills through real-world projects.
 
 * 🔭 Currently working on **Student Budget Planner**
 * 🌱 Currently learning **Python**
 * 👯 Looking to collaborate on **House-377**
 * 🤝 Looking for help with **Mess Mate**
-* 💻 Building modern applications with **React, Next.js & Node.js**
 * 💬 Ask me about **Full Stack Development**
 * 🎮 Fun fact: **I'm a gamer**
 * 📫 Reach me at **[marufahamedfardin20@gmail.com](mailto:marufahamedfardin20@gmail.com)**
 
 ---
 
-## 🧑‍💻 Current Focus
+# 🧭 Current Focus
 
-```text
-Frontend       ███████████████████░   React • Next.js • TypeScript • Tailwind
-Backend        ████████████████░░░░   Node.js • Express.js
-Database       ██████████████░░░░░░   MongoDB • MySQL
-Programming    ████████████░░░░░░░░   JavaScript • Python
-Tools          ████████████████░░░░   Git • GitHub • Docker • Figma
-```
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="180">
+
+### 🎨 Frontend
+
+</td>
+<td align="left">
+
+React  •  Next.js  •  TypeScript  •  Tailwind CSS
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ⚙️ Backend
+
+</td>
+<td align="left">
+
+Node.js  •  Express.js  •  REST APIs
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🗄️ Database
+
+</td>
+<td align="left">
+
+MongoDB  •  MySQL  •  Firebase
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 💻 Programming
+
+</td>
+<td align="left">
+
+JavaScript  •  TypeScript  •  Python
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🛠️ Tools
+
+</td>
+<td align="left">
+
+Git  •  GitHub  •  Docker  •  Figma  •  VS Code
+
+</td>
+</tr>
+
+</table>
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
+
+<div align="center">
 
 ### Languages
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript"/>
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://skillicons.dev/icons?i=ts" width="45" alt="TypeScript"/>
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons?i=python" width="45" alt="Python"/>
-  </a>
-  <a href="https://www.w3.org/html/">
-    <img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML5"/>
-  </a>
-  <a href="https://www.w3.org/Style/CSS/">
-    <img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS3"/>
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css" alt="Languages"/>
 </p>
 
 ### Frontend
 
-<p align="left">
-  <a href="https://react.dev/">
-    <img src="https://skillicons.dev/icons?i=react" width="45" alt="React"/>
-  </a>
-  <a href="https://nextjs.org/">
-    <img src="https://skillicons.dev/icons?i=nextjs" width="45" alt="Next.js"/>
-  </a>
-  <a href="https://tailwindcss.com/">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="45" alt="Tailwind CSS"/>
-  </a>
-  <a href="https://redux.js.org/">
-    <img src="https://skillicons.dev/icons?i=redux" width="45" alt="Redux"/>
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" alt="Frontend"/>
 </p>
 
 ### Backend & Database
 
-<p align="left">
-  <a href="https://nodejs.org/">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js"/>
-  </a>
-  <a href="https://expressjs.com/">
-    <img src="https://skillicons.dev/icons?i=express" width="45" alt="Express.js"/>
-  </a>
-  <a href="https://www.mongodb.com/">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="45" alt="MongoDB"/>
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL"/>
-  </a>
-  <a href="https://firebase.google.com/">
-    <img src="https://skillicons.dev/icons?i=firebase" width="45" alt="Firebase"/>
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Backend and Database"/>
 </p>
 
 ### Tools & Platforms
 
-<p align="left">
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" width="45" alt="Git"/>
-  </a>
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
-  </a>
-  <a href="https://www.docker.com/">
-    <img src="https://skillicons.dev/icons?i=docker" width="45" alt="Docker"/>
-  </a>
-  <a href="https://www.figma.com/">
-    <img src="https://skillicons.dev/icons?i=figma" width="45" alt="Figma"/>
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode" width="45" alt="VS Code"/>
-  </a>
-  <a href="https://vercel.com/">
-    <img src="https://skillicons.dev/icons?i=vercel" width="45" alt="Vercel"/>
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,vercel" alt="Tools and Platforms"/>
 </p>
+
+</div>
 
 ---
 
@@ -140,79 +151,39 @@ Tools          ████████████████░░░░   Gi
 <div align="center">
 
 <a href="https://github.com/maruf-ahamed-fardin">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=maruf-ahamed-fardin&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=false&theme=tokyonight" alt="Maruf's GitHub Stats" />
+  <img src="https://img.shields.io/github/repos/maruf-ahamed-fardin?style=for-the-badge&logo=github&logoColor=white&label=TOTAL%20REPOS" alt="Total Repositories"/>
 </a>
 
 <a href="https://github.com/maruf-ahamed-fardin">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruf-ahamed-fardin&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top Languages" />
+  <img src="https://img.shields.io/github/stars/maruf-ahamed-fardin?style=for-the-badge&logo=github&logoColor=white&label=STARS%20GOT" alt="Stars Got"/>
+</a>
+
+<a href="https://github.com/maruf-ahamed-fardin">
+  <img src="https://img.shields.io/github/followers/maruf-ahamed-fardin?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS" alt="Followers"/>
+</a>
+
+<a href="https://github.com/maruf-ahamed-fardin">
+  <img src="https://img.shields.io/github/commit-activity/y/maruf-ahamed-fardin?style=for-the-badge&logo=github&logoColor=white&label=COMMITS/YEAR" alt="Commits Per Year"/>
 </a>
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
-<a href="https://github.com/maruf-ahamed-fardin">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maruf-ahamed-fardin&hide_border=true&theme=tokyonight" alt="Contribution Streak" />
-</a>
-
-</div>
-
----
-
-# 📈 Contribution Activity Graph
-
-<div align="center">
-
-<a href="https://github.com/maruf-ahamed-fardin">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maruf-ahamed-fardin&theme=tokyo-night&hide_border=true&area=true" alt="Maruf's Contribution Activity Graph" />
-</a>
+<img src="https://streak-stats.demolab.com/?user=maruf-ahamed-fardin&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
 </div>
 
 ---
 
-# 📌 GitHub Overview
+# 📈 Contribution Activity
 
 <div align="center">
 
 <a href="https://github.com/maruf-ahamed-fardin">
-  <img src="https://img.shields.io/github/repos/maruf-ahamed-fardin?style=for-the-badge&logo=github&label=TOTAL%20REPOS" alt="Total Repositories"/>
-</a>
-
-<a href="https://github.com/maruf-ahamed-fardin">
-  <img src="https://img.shields.io/github/stars/maruf-ahamed-fardin?style=for-the-badge&logo=github&label=STARS%20GOT" alt="Stars Got"/>
-</a>
-
-<a href="https://github.com/maruf-ahamed-fardin">
-  <img src="https://img.shields.io/github/followers/maruf-ahamed-fardin?style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers"/>
-</a>
-
-<a href="https://github.com/maruf-ahamed-fardin">
-  <img src="https://img.shields.io/github/commit-activity/y/maruf-ahamed-fardin?style=for-the-badge&logo=github&label=COMMITS/YEAR" alt="Commits per Year"/>
-</a>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maruf-ahamed-fardin&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
-</div>
-
----
-
-# 📅 Commit Graph
-
-<div align="center">
-
-<a href="https://github.com/maruf-ahamed-fardin">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maruf-ahamed-fardin&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Commit Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maruf-ahamed-fardin&theme=tokyo-night&hide_border=true&area=true" alt="Maruf's GitHub Contribution Activity Graph"/>
 </a>
 
 </div>
@@ -223,70 +194,146 @@ Tools          ████████████████░░░░   Gi
 
 <div align="center">
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>💰 Student Budget Planner</h2>
+
+<p>
+A practical application focused on helping students manage and organize their personal budgets and expenses.
+</p>
+
+<p><b>Focus:</b></p>
+
+<p>
+Budget Management<br>
+User Experience<br>
+Full Stack Development
+</p>
+
 <a href="https://github.com/maruf-ahamed-fardin/student-budget-planner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maruf-ahamed-fardin&repo=student-budget-planner&theme=tokyonight&hide_border=true" alt="Student Budget Planner"/>
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Student Budget Planner"/>
 </a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>🏠 House-377</h2>
+
+<p>
+A modern web project designed to provide an interactive digital experience around housing and property-related functionality.
+</p>
+
+<p><b>Focus:</b></p>
+
+<p>
+Web Development<br>
+Responsive UI<br>
+Full Stack Features
+</p>
 
 <a href="https://github.com/maruf-ahamed-fardin/House-377">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maruf-ahamed-fardin&repo=House-377&theme=tokyonight&hide_border=true" alt="House 377"/>
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View House-377"/>
 </a>
 
+</td>
+
+</tr>
+</table>
+
 </div>
-
-<br/>
-
-### 💰 Student Budget Planner
-
-A practical application focused on helping students manage and organize their personal budgets and expenses.
-
-**Focus:** Budget Management • User Experience • Full Stack Development
-
-### 🏠 House-377
-
-A web project designed to provide a modern digital experience around housing and property-related functionality.
-
-**Focus:** Web Development • Responsive UI • Full Stack Features
 
 ---
 
 # 🎯 What I'm Working Toward
 
-* 🚀 Building production-ready full-stack applications
-* 🧠 Strengthening my backend and system design skills
-* 🐍 Expanding my knowledge of Python
-* ⚡ Improving React & Next.js development
-* 🔐 Learning better authentication and API architecture
-* ☁️ Exploring deployment and cloud technologies
-* 🤝 Contributing to meaningful open-source projects
+<div align="center">
+
+<table>
+
+<tr>
+<td align="center" width="80">🚀</td>
+<td>
+<b>Production-ready Applications</b><br>
+Building scalable and maintainable full-stack applications.
+</td>
+</tr>
+
+<tr>
+<td align="center">🧠</td>
+<td>
+<b>Backend Development</b><br>
+Improving API architecture, authentication and server-side development.
+</td>
+</tr>
+
+<tr>
+<td align="center">🐍</td>
+<td>
+<b>Python</b><br>
+Expanding my programming knowledge beyond JavaScript and TypeScript.
+</td>
+</tr>
+
+<tr>
+<td align="center">⚡</td>
+<td>
+<b>Modern Frontend</b><br>
+Creating faster, cleaner and more interactive interfaces.
+</td>
+</tr>
+
+<tr>
+<td align="center">☁️</td>
+<td>
+<b>Cloud & Deployment</b><br>
+Exploring deployment workflows and modern cloud technologies.
+</td>
+</tr>
+
+<tr>
+<td align="center">🤝</td>
+<td>
+<b>Open Source</b><br>
+Collaborating with developers and contributing to meaningful projects.
+</td>
+</tr>
+
+</table>
+
+</div>
 
 ---
 
-# 🤝 Let's Connect
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/maruf-ahamed-fardin-36a941215">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://twitter.com/ma_fardin">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  <img src="https://img.shields.io/badge/X%20%2F%20Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
 </a>
 
 <a href="https://www.facebook.com/marufahamedfardin20">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 
 <a href="https://www.instagram.com/maruf.ahamed.fardin">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <a href="https://discord.gg/marufahamedfardin">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
 <a href="mailto:marufahamedfardin20@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 </div>
@@ -295,13 +342,19 @@ A web project designed to provide a modern digital experience around housing and
 
 <div align="center">
 
-### 💻 "Turning ideas into code, and code into experiences."
+### 💻 Turning Ideas Into Code, Code Into Experiences.
 
-<br/>
+<br>
+
+<a href="https://maruf-ahamed-fardin.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-0A66C2?style=for-the-badge" alt="Visit Portfolio"/>
+</a>
+
+<br><br>
 
 ⭐ **If you like my work, consider giving my repositories a star!**
 
-<br/>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=maruf-ahamed-fardin&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
 
