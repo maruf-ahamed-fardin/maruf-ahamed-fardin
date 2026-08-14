@@ -156,6 +156,134 @@ Gaming
 
 ---
 
+# 🧠 What I'm Focused On
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Crafting+Interfaces+%E2%80%A2+Building+Systems;Learning+%E2%80%A2+Experimenting+%E2%80%A2+Improving" alt="Focus Animation"/>
+
+<br><br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,50:161b22,100:0d1117&height=55&text=🎨%20FRONTEND%20DEVELOPMENT&fontSize=17&fontColor=ffffff&animation=twinkling&fontAlignY=50" width="100%" alt="Frontend Development"/>
+
+<br>
+
+### ⚛️ Building The Interface
+
+Creating responsive and interactive experiences with modern frontend technologies.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" height="42" alt="Frontend Technologies"/>
+
+<br><br>
+
+`React` • `Next.js` • `TypeScript` • `Tailwind CSS`
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,50:0e75b6,100:0d1117&height=55&text=⚙️%20BACKEND%20DEVELOPMENT&fontSize=17&fontColor=ffffff&animation=twinkling&fontAlignY=50" width="100%" alt="Backend Development"/>
+
+<br>
+
+### 🧩 Powering The Application
+
+Building structured APIs and scalable server-side applications.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,js" height="42" alt="Backend Technologies"/>
+
+<br><br>
+
+`Node.js` • `Express.js` • `REST APIs` • `Authentication`
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,50:0e75b6,100:0d1117&height=55&text=🗄️%20DATA%20%26%20ARCHITECTURE&fontSize=17&fontColor=ffffff&animation=twinkling&fontAlignY=50" width="100%" alt="Data and Architecture"/>
+
+<br>
+
+### 🔗 Connecting The Data
+
+Designing efficient data structures and application architecture.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" height="42" alt="Database Technologies"/>
+
+<br><br>
+
+`MongoDB` • `MySQL` • `Firebase` • `API Architecture`
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,50:161b22,100:0d1117&height=55&text=🚀%20GROWTH%20%26%20LEARNING&fontSize=17&fontColor=ffffff&animation=twinkling&fontAlignY=50" width="100%" alt="Growth and Learning"/>
+
+<br>
+
+### 🌱 Always Moving Forward
+
+Improving my workflow, exploring new technologies, and becoming a better developer.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,docker,git,github" height="42" alt="Growth Technologies"/>
+
+<br><br>
+
+`Python` • `Cloud` • `System Design` • `Open Source`
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:0e75b6,50:58a6ff,75:0e75b6,100:0d1117&height=4&section=footer&animation=twinkling" width="100%" alt="Animated Divider"/>
+
+<br>
+
+### ⚡ My Current Mindset
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Improve;Code+with+Purpose+%E2%80%A2+Build+with+Passion" alt="Developer Mindset"/>
+
+</div>
+
+---
+
 # ⚡ Tech Stack
 
 <div align="center">
@@ -181,76 +309,6 @@ Gaming
 ### Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,vercel" alt="Tools and Platforms"/>
-
-</div>
-
----
-
-# 🧠 What I'm Focused On
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🎨 Frontend Development
-
-Building responsive and interactive interfaces with modern frontend technologies.
-
-**React**
-**Next.js**
-**TypeScript**
-**Tailwind CSS**
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙️ Backend Development
-
-Creating structured APIs and scalable server-side applications.
-
-**Node.js**
-**Express.js**
-**REST APIs**
-**Authentication**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🗄️ Data & Architecture
-
-Working with databases and developing efficient application structures.
-
-**MongoDB**
-**MySQL**
-**Firebase**
-**API Architecture**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🚀 Growth
-
-Continuously improving my development workflow and technical knowledge.
-
-**Python**
-**Cloud & Deployment**
-**System Design**
-**Open Source**
-
-</td>
-
-</tr>
-</table>
 
 </div>
 
