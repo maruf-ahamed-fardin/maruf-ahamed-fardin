@@ -28,25 +28,131 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-> **Passionate about creating digital experiences that are fast, functional, and beautiful.**
+<div align="center">
 
-I'm a **Full Stack Web Developer** focused on building responsive and interactive web applications. I enjoy taking an idea from **concept → design → development → deployment** and turning it into something people can actually use.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Building+Modern+Web+Experiences;Turning+Ideas+Into+Real+Applications;Always+Learning+%26+Improving" alt="Typing Animation"/>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+### 👨‍💻 Who I Am
+
+I'm a **Full Stack Web Developer** passionate about building modern, responsive, and interactive web applications.
+
+I enjoy transforming ideas into real-world digital experiences — from **concept and design** to **development and deployment**.
+
+My goal is simple:
+
+> **Build clean. Think creatively. Ship meaningful products.**
+
+<br>
+
+### ⚡ What I Do
+
+* 🎨 Build modern & responsive interfaces
+* ⚙️ Develop scalable backend systems
+* 🔗 Create RESTful APIs
+* 🗄️ Work with databases & application architecture
+* 🚀 Deploy and maintain web applications
+* 📚 Continuously learn new technologies
+
+</td>
+
+<td width="40%" valign="top">
+
+### 🧩 My Development Stack
 
 ```text
-Frontend        React • Next.js • TypeScript • Tailwind CSS
-Backend         Node.js • Express.js • REST APIs
-Database        MongoDB • MySQL • Firebase
-Languages       JavaScript • TypeScript • Python
-Tools           Git • GitHub • Docker • Figma • VS Code
+Frontend
+├── React
+├── Next.js
+├── TypeScript
+└── Tailwind CSS
+
+Backend
+├── Node.js
+├── Express.js
+└── REST APIs
+
+Database
+├── MongoDB
+├── MySQL
+└── Firebase
+
+Languages
+├── JavaScript
+├── TypeScript
+└── Python
 ```
 
-* 🔭 Currently building **Student Budget Planner**
-* 🌱 Currently learning **Python**
-* 💬 Ask me about **Full Stack Development**
-* 🎮 Gamer when I'm not coding
-* 📫 **[marufahamedfardin20@gmail.com](mailto:marufahamedfardin20@gmail.com)**
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### 🎯 Currently
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🔨
+
+**Building**
+
+Student Budget Planner
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌱
+
+**Learning**
+
+Python
+
+</td>
+
+<td align="center" width="25%">
+
+### 💬
+
+**Ask Me**
+
+Full Stack Development
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎮
+
+**Off The Code**
+
+Gaming
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,45:0e75b6,75:161b22,100:0d1117&height=80&section=footer&text=BUILD%20%E2%80%A2%20CREATE%20%E2%80%A2%20DEPLOY&fontSize=20&fontColor=58a6ff&animation=twinkling&fontAlignY=50" width="100%" alt="Animated Developer Divider"/>
 
 ---
 
@@ -86,6 +192,7 @@ Tools           Git • GitHub • Docker • Figma • VS Code
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🎨 Frontend Development
@@ -111,9 +218,11 @@ Creating structured APIs and scalable server-side applications.
 **Authentication**
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🗄️ Data & Architecture
@@ -139,6 +248,7 @@ Continuously improving my development workflow and technical knowledge.
 **Open Source**
 
 </td>
+
 </tr>
 </table>
 
@@ -192,6 +302,7 @@ Continuously improving my development workflow and technical knowledge.
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
 ### 💡
@@ -231,6 +342,7 @@ Refactor, optimize and grow.
 Collaborate and contribute.
 
 </td>
+
 </tr>
 </table>
 
@@ -273,6 +385,8 @@ Collaborate and contribute.
 ### 💻 Turning Ideas Into Code, Code Into Experiences.
 
 **Thanks for visiting my profile! 🚀**
+
+<br>
 
 <a href="https://maruf-ahamed-fardin.vercel.app/">
 <img src="https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-0A66C2?style=for-the-badge" alt="Portfolio"/>
