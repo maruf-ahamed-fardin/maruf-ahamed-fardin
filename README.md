@@ -176,89 +176,11 @@ Continuously improving my development workflow and technical knowledge.
 
 ---
 
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=maruf-ahamed-fardin&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Contribution Streak"/>
-
-</div>
-
----
-
 # 📈 Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=maruf-ahamed-fardin&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=0e75b6&area=true&hide_border=true&radius=10&custom_title=Contribution%20Activity" width="95%" alt="Contribution Activity Graph"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h2>💰 Student Budget Planner</h2>
-
-<p>
-A practical application designed to help students manage and organize their personal budgets and expenses.
-</p>
-
-<p>
-
-<b>✨ Highlights</b>
-
-<br><br>
-
-📊 Budget Management <br>
-💸 Expense Tracking <br>
-🎨 User-Friendly Interface <br>
-⚡ Full Stack Architecture
-
-</p>
-
-<a href="https://github.com/maruf-ahamed-fardin/student-budget-planner">
-<img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Student Budget Planner"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h2>🏠 House-377</h2>
-
-<p>
-A modern web project focused on creating an interactive digital experience for housing and property-related functionality.
-</p>
-
-<p>
-
-<b>✨ Highlights</b>
-
-<br><br>
-
-🏠 Housing Experience <br>
-📱 Responsive Design <br>
-🎨 Modern UI <br>
-⚡ Full Stack Features
-
-</p>
-
-<a href="https://github.com/maruf-ahamed-fardin/House-377">
-<img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="House-377"/>
-</a>
-
-</td>
-
-</tr>
-</table>
 
 </div>
 
