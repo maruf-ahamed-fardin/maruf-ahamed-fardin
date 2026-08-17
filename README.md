@@ -416,14 +416,13 @@ Collaborate and contribute.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0e75b6&height=120&section=footer" width="100%" alt="Footer"/>
-
 ### 💻 Turning Ideas Into Code, Code Into Experiences.
 
 **Thanks for visiting my profile! 🚀**
 
 <img src="https://komarev.com/ghpvc/?username=maruf-ahamed-fardin&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
+<br>
 <br>
 
 <a href="https://maruf-ahamed-fardin.vercel.app/">
