@@ -80,55 +80,6 @@ Languages
 
 <div align="center">
 
-### 🎯 Currently
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### 🔨
-
-**Building**
-
-Student Budget Planner
-
-</td>
-
-<td align="center" width="25%">
-
-### 🌱
-
-**Learning**
-
-Python
-
-</td>
-
-<td align="center" width="25%">
-
-### 💬
-
-**Ask Me**
-
-Full Stack Development
-
-</td>
-
-<td align="center" width="25%">
-
-### 🎮
-
-**Off The Code**
-
-Gaming
-
-</td>
-
-</tr>
-</table>
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,45:0e75b6,75:161b22,100:0d1117&height=80&section=footer&text=BUILD%20%E2%80%A2%20CREATE%20%E2%80%A2%20DEPLOY&fontSize=20&fontColor=58a6ff&animation=twinkling&fontAlignY=50" width="100%" alt="Animated Developer Divider"/>
 
