@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0e75b6&height=180&section=header&text=Maruf%20Ahamed%20Fardin&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descSize=20" width="100%" alt="Header"/>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=maruf-ahamed-fardin&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-
 </div>
 
 ---
