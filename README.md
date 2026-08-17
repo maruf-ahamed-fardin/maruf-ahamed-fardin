@@ -8,17 +8,7 @@
 
 **Building modern interfaces • Developing powerful backends • Turning ideas into experiences**
 
-<br>
 
-<a href="https://maruf-ahamed-fardin.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-0A66C2?style=for-the-badge" alt="Portfolio"/>
-</a>
-<a href="mailto:marufahamedfardin20@gmail.com">
-<img src="https://img.shields.io/badge/✉️%20EMAIL-EA4335?style=for-the-badge" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/maruf-ahamed-fardin-36a941215">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
 
 <br><br>
 
