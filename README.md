@@ -281,59 +281,6 @@ Improving my workflow, exploring new technologies, and becoming a better develop
 
 </div>
 
----
-
-# 🏆 Developer Journey
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### 💡
-
-**Learn**
-
-Explore new technologies and concepts.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🛠️
-
-**Build**
-
-Turn ideas into real applications.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🚀
-
-**Improve**
-
-Refactor, optimize and grow.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤝
-
-**Share**
-
-Collaborate and contribute.
-
-</td>
-
-</tr>
-</table>
-
-</div>
 
 ---
 
