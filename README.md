@@ -422,6 +422,8 @@ Collaborate and contribute.
 
 **Thanks for visiting my profile! 🚀**
 
+<img src="https://komarev.com/ghpvc/?username=maruf-ahamed-fardin&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
 <br>
 
 <a href="https://maruf-ahamed-fardin.vercel.app/">
