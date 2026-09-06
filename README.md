@@ -1,33 +1,32 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0e75b6&height=130&section=header&text=Maruf%20Ahamed%20Fardin&fontSize=34&fontColor=ffffff&fontAlignY=34&desc=Full%20Stack%20Web%20Developer%20%C2%B7%20React%20%C2%B7%20Next.js%20%C2%B7%20Node.js&descAlignY=56&descSize=14" width="100%" alt="Maruf Ahamed Fardin — Full Stack Web Developer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:00d4ff&height=110&section=header&text=Maruf%20Ahamed%20Fardin&fontSize=32&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Web%20Developer%20%C2%B7%20React%20%C2%B7%20Next.js%20%C2%B7%20Node.js&descAlignY=64&descSize=13&animation=fadeIn" width="100%" alt="Maruf Ahamed Fardin — Full Stack Web Developer"/>
 </div>
-
----
 
 <h1 align="center">🚀 About Me</h1>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Designing+Interfaces+%C2%B7+Building+APIs+%C2%B7+Shipping+Products;Clean+Code+%C2%B7+Honest+Errors+%C2%B7+Real+Users" alt="Typing Animation"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;I+build+things+for+the+web;Frontend%2C+backend%2C+and+everything+in+between" alt="Typing Animation"/>
 </div>
 
-I'm a **Full Stack Web Developer** based in Bangladesh. I design the interface, write the API, model the data, and ship the result to production — end to end.
+Hey, I'm Maruf, a full stack developer from Bangladesh.
 
-My focus is on work that survives contact with real users: component systems that scale instead of fragment, REST APIs with predictable error handling, and database schemas built around how the application actually queries them. I care about clean naming, code that still reads well six months later, and interfaces that hold up on a 360px phone.
+I build web apps end to end: the UI, the API, the database, and the part where it actually goes live. Most of my work sits in React, Next.js and Node. I've broken enough of my own projects by now to have real opinions about naming things, handling errors properly, and not shipping a layout that falls apart on a 360px phone.
 
-- 🔭 &nbsp;**Currently building** — production-grade full stack applications with React, Next.js and Node.js
-- 🌱 &nbsp;**Currently learning** — system design, backend architecture and containerized deployment
-- 💬 &nbsp;**Ask me about** — React, Next.js, Node.js, MongoDB and REST API design
-- 🤝 &nbsp;**Open to** — full stack roles, freelance projects and open source collaboration
-- 🌍 &nbsp;**Based in** — Bangladesh (UTC+6)
+I lean a little more toward the backend, but I do both. These days I'm digging into system design and Docker, mostly because "works on my machine" stopped being a good excuse.
+
+- 🔭 &nbsp;**Right now** — building full stack apps with React, Next.js and Node
+- 🌱 &nbsp;**Learning** — system design, backend architecture and Docker
+- 💬 &nbsp;**Ask me about** — React, Next.js, Node, MongoDB, REST APIs
+- 🤝 &nbsp;**Open to** — full stack roles, freelance work and open source
+- ⚡ &nbsp;**Fun fact** — I'll rename a variable five times before I'm happy with it
+
+If you're building something interesting, my inbox is open.
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Focus-Backend%20Architecture%20%C2%B7%20System%20Design-0e75b6?style=flat-square&labelColor=161b22" alt="Focus"/>
 <img src="https://img.shields.io/badge/Open%20to-Full%20Stack%20%C2%B7%20Freelance%20%C2%B7%20OSS-2ea043?style=flat-square&labelColor=161b22" alt="Open to"/>
 <img src="https://img.shields.io/badge/Ask%20me-React%20%C2%B7%20Next.js%20%C2%B7%20Node-8957e5?style=flat-square&labelColor=161b22" alt="Ask me"/>
-<img src="https://img.shields.io/badge/Based%20in-Bangladesh%20%C2%B7%20UTC%2B6-db6d28?style=flat-square&labelColor=161b22" alt="Based in"/>
 
 </div>
 
@@ -56,8 +55,9 @@ My focus is on work that survives contact with real users: component systems tha
 <h1 align="center">📊 GitHub Analytics</h1>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maruf-ahamed-fardin&theme=github_dark" height="150" alt="GitHub Statistics"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maruf-ahamed-fardin&theme=github_dark" height="150" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maruf-ahamed-fardin&theme=github_dark" height="140" alt="GitHub Statistics"/>
+  <img src="https://streak-stats.demolab.com?user=maruf-ahamed-fardin&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=FFFFFF&sideLabels=8B949E&sideNums=FFFFFF&dates=8B949E&short_numbers=true&date_format=M%20j" height="140" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maruf-ahamed-fardin&theme=github_dark" height="140" alt="Top Languages"/>
 </div>
 
 ---
@@ -66,6 +66,7 @@ My focus is on work that survives contact with real users: component systems tha
 
 <div align="center">
   <a href="https://maruf-ahamed-fardin.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" height="36" alt="Portfolio"/></a>&nbsp;
+  <a href="mailto:marufahamedfardin20@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="36" alt="Email"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/maruf-ahamed-fardin-36a941215"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36" alt="LinkedIn"/></a>&nbsp;
   <a href="https://twitter.com/ma_fardin"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="36" alt="X / Twitter"/></a>&nbsp;
   <a href="https://www.facebook.com/marufahamedfardin20"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="36" alt="Facebook"/></a>&nbsp;
@@ -76,4 +77,3 @@ My focus is on work that survives contact with real users: component systems tha
   <img src="https://komarev.com/ghpvc/?username=maruf-ahamed-fardin&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:161b22,100:0d1117&height=110&section=footer" width="100%" alt="Footer"/>
