@@ -69,8 +69,6 @@ If you're building something interesting, my inbox is open.
   <a href="mailto:marufahamedfardin20@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="36" alt="Email"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/maruf-ahamed-fardin-36a941215"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36" alt="LinkedIn"/></a>&nbsp;
   <a href="https://twitter.com/ma_fardin"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="36" alt="X / Twitter"/></a>&nbsp;
-  <a href="https://www.facebook.com/marufahamedfardin20"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="36" alt="Facebook"/></a>&nbsp;
-  <a href="https://www.instagram.com/maruf.ahamed.fardin"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="36" alt="Instagram"/></a>
   <br><br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Turning+Ideas+Into+Code%2C+Code+Into+Experiences;Open+to+Work+%C2%B7+Open+to+Collaborate;Let's+Build+Something+Worth+Shipping" alt="Closing Animation"/>
   <br>
