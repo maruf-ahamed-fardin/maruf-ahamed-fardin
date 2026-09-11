@@ -5,10 +5,8 @@
 <h1 align="center">🚀 About Me</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;I+build+things+for+the+web;Frontend%2C+backend%2C+and+everything+in+between" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;I+build+things+for+the+web;Frontend%2C+backend%2C+and+everything+in+between" alt="Typing Animation"/>
 </div>
-
-<br>
 
 I'm a Full Stack Web Developer who enjoys building practical, reliable web applications.
 
@@ -35,17 +33,11 @@ Always open to interesting projects, collaborations, and full-stack opportunitie
 **💻&nbsp; LANGUAGES**<br>
 <img src="https://skillicons.dev/icons?i=js,ts,python,html,css&perline=5" alt="Languages"/>
 
-<br><br>
-
 **🎨&nbsp; FRONTEND**<br>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&perline=4" alt="Frontend"/>
 
-<br><br>
-
 **⚙️&nbsp; BACKEND & DATA**<br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&perline=5" alt="Backend and Database"/>
-
-<br><br>
 
 **🛠️&nbsp; TOOLS**<br>
 <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,vercel&perline=6" alt="Tools"/>
@@ -67,35 +59,13 @@ Always open to interesting projects, collaborations, and full-stack opportunitie
 <h1 align="center">🌐 Let's Connect</h1>
 
 <div align="center">
-
-<a href="https://maruf-ahamed-fardin.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" height="36" alt="Portfolio"/>
-</a>&nbsp;
-
-<a href="mailto:marufahamedfardin20@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="36" alt="Email"/>
-</a>&nbsp;
-
-<a href="https://www.linkedin.com/in/maruf-ahamed-fardin-36a941215">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36" alt="LinkedIn"/>
-</a>&nbsp;
-
-<a href="https://twitter.com/ma_fardin">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="36" alt="X / Twitter"/>
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Turning+Ideas+Into+Code%2C+Code+Into+Experiences;Open+to+Work+%C2%B7+Open+to+Collaborate;Let's+Build+Something+Worth+Shipping" alt="Closing Animation"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=maruf-ahamed-fardin&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-
+  <a href="https://maruf-ahamed-fardin.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" height="36" alt="Portfolio"/></a>&nbsp;
+  <a href="mailto:marufahamedfardin20@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="36" alt="Email"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/maruf-ahamed-fardin-36a941215"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://twitter.com/ma_fardin"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="36" alt="X / Twitter"/></a>&nbsp;
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Turning+Ideas+Into+Code%2C+Code+Into+Experiences;Open+to+Work+%C2%B7+Open+to+Collaborate;Let's+Build+Something+Worth+Shipping" alt="Closing Animation"/>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=maruf-ahamed-fardin&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:00d4ff&height=110&section=footer" width="100%" alt="Footer"/>
-</div>
